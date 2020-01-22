@@ -1,3 +1,6 @@
+#
+# 4つのViewが動き互いに反射して進行方向を変える
+#
 import ui
 import threading
 
